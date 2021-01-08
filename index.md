@@ -5,7 +5,7 @@ landing-title: 'Hi, my name is Spencer'
 description: null
 image: null
 author: null
-show_tile: true
+show_tile: false
 ---
 
-Computer Science student at Virginia Tech. 
+I've worked on a variety of projects that you can get details about on my portfolio page.
